@@ -1,0 +1,4 @@
+@QueryEntities({})
+package a;
+
+import com.querydsl.core.annotations.QueryEntities;
