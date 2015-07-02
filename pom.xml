@@ -7,6 +7,10 @@
 	<artifactId>parent</artifactId>
 	<version>0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
+
+    <properties>
+        <querydsl.version>4.0.2</querydsl.version>
+    </properties>
     
     <modules>
         <module>example-a</module>
